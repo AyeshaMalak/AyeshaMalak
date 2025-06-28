@@ -31,3 +31,9 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyeshaMalak)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-js-eight-tau.vercel.app/)
+
+---
+
+## 💻 Keep Building...
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding GIF" style="width:100%; max-width:800px; border-radius:10px;" />
