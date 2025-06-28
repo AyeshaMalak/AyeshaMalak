@@ -1,5 +1,3 @@
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 # 👋 Hi, I'm Ayesha — Full-Stack Developer
 
 I'm a passionate developer who loves building dynamic and responsive websites.  
@@ -10,18 +8,7 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 ---
 
-## 💻 Skills & Technologies
-
-Here are some of the technologies and tools I work with:
-
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Firebase  
-- **CMS**: WordPress  
-- **Tools**: Git, GitHub, VS Code, Postman
-
----
-
-### 🔧 My Tech Stack
+## 🔧 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,8 +23,11 @@ Here are some of the technologies and tools I work with:
 
 ---
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:100%; max-width:600px;" />
+
+---
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyeshaMalak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-js-eight-tau.vercel.app/)
-
