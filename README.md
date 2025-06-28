@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ayesha — Full-Stack Developer
 
+
+
 I'm a passionate developer who loves building dynamic and responsive websites.  
 I enjoy working with both frontend and backend technologies to bring ideas to life.  
 Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 > 🌱 “Always a learner. Always growing. Always building.”
-
----
-
-## 🔧 My Tech Stack
+>
+> ## 🔧 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,6 +23,14 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 ---
 
-## 👩‍💻 Always Coding. Always Creating.
+>
+> ## 👩‍💻 Always Coding. Always Creating.
 
-![Developer at work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51YqOBYYpsvWC89D87s_QVbvZ43Yg8P-t0w&s" width="500" alt="Developer at work" />
+
+
+
+
+---
+
+
