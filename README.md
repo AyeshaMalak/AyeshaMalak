@@ -36,4 +36,4 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 ## 💻 Keep Building...
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Developer Coding GIF" style="width:100%; max-width:800px; border-radius:10px;" />
+<img src="https://media.giphy.com/media/l3vRlV2EzPtnhhO7m/giphy.gif" alt="Developer Coding GIF" style="width:100%; max-width:800px; border-radius:10px;" />
