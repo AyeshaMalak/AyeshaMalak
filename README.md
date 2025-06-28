@@ -23,11 +23,11 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:100%; max-width:600px;" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-7293482-5934084.png" alt="Developer Illustration" style="width:100%; max-width:900px; border-radius:10px;" />
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyeshaMalak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AyeshaMalak)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-js-eight-tau.vercel.app/)
