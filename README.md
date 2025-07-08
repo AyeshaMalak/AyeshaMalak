@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ayesha — Full-Stack Developer
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51YqOBYYpsvWC89D87s_QVbvZ43Yg8P-t0w&s" width="500" alt="Developer at work" />
+
 
 
 I'm a passionate developer who loves building dynamic and responsive websites.  
@@ -24,9 +26,7 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 ---
 
 >
-> ## 👩‍💻 Always Coding. Always Creating.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51YqOBYYpsvWC89D87s_QVbvZ43Yg8P-t0w&s" width="500" alt="Developer at work" />
 
 
 
