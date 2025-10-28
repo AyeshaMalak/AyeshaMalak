@@ -1,4 +1,4 @@
- 👋 Hi, I'm Ayesha — Full-Stack Developer
+# 👋 Hi, I'm Ayesha — MERN-Stack Developer
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51YqOBYYpsvWC89D87s_QVbvZ43Yg8P-t0w&s" width="500" alt="Developer at work" />
 
@@ -15,8 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-malak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-malak" height="30" width="40" /></a>
 </p>
-
-
 
 I'm a passionate developer who loves building dynamic and responsive websites.  
 I enjoy working with both frontend and backend technologies to bring ideas to life.  
