@@ -1,28 +1,28 @@
-# 👋 Hi, I'm Ayesha — MERN-Stack Developer  
+# 👋 Hi, I'm Ayesha — MERN-Stack Developer
 
-<img src="https://i.ibb.co/v4NhJmf3/Developer.jpg" width="500" alt="Developer at work" />  
+<img 
+  src="https://i.ibb.co/v4NhJmf3/Developer.jpg" 
+  alt="Developer at work" 
+  style="width: 100%; height: auto; display: block;" 
+/>
 
-- 🌱 I’m currently learning **MERN Stack development**  
-- 👨‍💻 All of my projects are available at [https://portfolio-js-eight-tau.vercel.app/](https://portfolio-js-eight-tau.vercel.app/)  
-- 💬 Ask me about **React, JavaScript**  
-- 📫 How to reach me **malakayesha1207@gmail.com**  
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-  <a href="https://linkedin.com/in/ayesha-malak" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-malak" height="30" width="40" />
-  </a>  
-</p>  
-
-I'm a passionate developer who loves building dynamic and responsive websites.  
+I'm a passionate developer who loves building **dynamic and responsive websites**.  
 I enjoy working with both frontend and backend technologies to bring ideas to life.  
-Currently exploring more in the world of MERN stack and real-world projects 🚀  
+Currently exploring more in the world of **MERN Stack** and real-world projects 🚀
 
-> 🌱 “Always a learner. Always growing. Always building.”  
+> 🌱 “Always a learner. Always growing. Always building.”
 
 ---
 
-## 🔧 My Tech Stack  
+## 🌱 About Me
+- 👨‍💻 I’m currently learning **MERN Stack development**  
+- 💬 Ask me about **React, JavaScript**  
+- 📫 How to reach me: **malakayesha1207@gmail.com**  
+- 🌐 Portfolio: [https://portfolio-js-eight-tau.vercel.app/](https://portfolio-js-eight-tau.vercel.app/)
+
+---
+
+## 🔧 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -34,3 +34,13 @@ Currently exploring more in the world of MERN stack and real-world projects 🚀
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ayesha-malak" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-malak" height="30" width="40" />
+  </a>
+</p>
