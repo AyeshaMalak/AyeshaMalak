@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayesha — MERN-Stack Developer  
 
 <img 
-  src="https://images.unsplash.com/photo-1581092795366-6d4b9b118c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzY4NDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTkxMDkzMDk&ixlib=rb-4.0.3&q=80&w=1080" 
+  src="https://images.unsplash.com/photo-1581093588401-160fa7d2f59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzY4NDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTkxMDkzMDk&ixlib=rb-4.0.3&q=80&w=1080" 
   alt="Developer at work" 
   style="width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px;"
 />
