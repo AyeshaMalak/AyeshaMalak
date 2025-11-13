@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Ayesha — MERN-Stack Developer
+# 👋 Hi, I'm Ayesha — MERN-Stack Developer  
 
 <img 
-  src="https://i.ibb.co/v4NhJmf3/Developer.jpg" 
+  src="https://images.unsplash.com/photo-1581092795366-6d4b9b118c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzY4NDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTkxMDkzMDk&ixlib=rb-4.0.3&q=80&w=1080" 
   alt="Developer at work" 
-  style="width: 100%; height: auto; display: block;" 
+  style="width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px;"
 />
 
 I'm a passionate developer who loves building **dynamic and responsive websites**.  
 I enjoy working with both frontend and backend technologies to bring ideas to life.  
-Currently exploring more in the world of **MERN Stack** and real-world projects 🚀
 
-> 🌱 “Always a learner. Always growing. Always building.”
+Currently exploring more in the world of **MERN Stack** and real-world projects 🚀  
+
+> 🌱 *“Always a learner. Always growing. Always building.”*
 
 ---
 
 ## 🌱 About Me
+
 - 👨‍💻 I’m currently learning **MERN Stack development**  
 - 💬 Ask me about **React, JavaScript**  
 - 📫 How to reach me: **malakayesha1207@gmail.com**  
@@ -24,16 +26,16 @@ Currently exploring more in the world of **MERN Stack** and real-world projects 
 
 ## 🔧 My Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
 ---
 
