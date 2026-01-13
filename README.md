@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ayesha — MERN Stack Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Developer at work" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" alt="Developer coding" />
+
 </p>
 
 <p align="center">
