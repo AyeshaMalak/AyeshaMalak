@@ -1,48 +1,17 @@
-# 👋 Hi, I'm Ayesha — MERN-Stack Developer  
+# 💫 About Me:
+I’m currently learning **MERN Stack development**  <br>- 💬 Ask me about **React, JavaScript**  <br>- 📫 How to reach me: **malakayesha1207@gmail.com**  <br>- 🌐 Portfolio: [https://portfolio-js-eight-tau.vercel.app/](https://portfolio-js-eight-tau.vercel.app/)
 
-<img 
-  src="https://images.unsplash.com/photo-1581093588401-160fa7d2f59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzY4NDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTkxMDkzMDk&ixlib=rb-4.0.3&q=80&w=1080" 
-  alt="Developer at work" 
-  style="width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px;"
-/>
 
-I'm a passionate developer who loves building **dynamic and responsive websites**.  
-I enjoy working with both frontend and backend technologies to bring ideas to life.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayesha Malak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malakayesha1207@gmail.com) 
 
-Currently exploring more in the world of **MERN Stack** and real-world projects 🚀  
-
-> 🌱 *“Always a learner. Always growing. Always building.”*
-
----
-
-## 🌱 About Me
-
-- 👨‍💻 I’m currently learning **MERN Stack development**  
-- 💬 Ask me about **React, JavaScript**  
-- 📫 How to reach me: **malakayesha1207@gmail.com**  
-- 🌐 Portfolio: [https://portfolio-js-eight-tau.vercel.app/](https://portfolio-js-eight-tau.vercel.app/)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayesha Malak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ayesha Malak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha Malak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ayesha Malak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 My Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ayesha-malak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-malak" height="30" width="40" />
-  </a>
-</p>
