@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayesha — MERN Stack Developer
+# 👋 Hi, I'm Ayesha — Web Developer
 
 <p align="center">
   <img src="" width="500" alt="Developer coding" />
